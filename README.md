@@ -576,3 +576,5 @@ shutil.rmtree(f'{user_dir}/.cache/matplotlib', ignore_errors=True)
 3. https://github.com/yeyupiaoling/PPASR
 4. https://github.com/alibaba-damo-academy/3D-Speaker
 5. https://github.com/wenet-e2e/wespeaker
+# 感谢服务器提供者
+https://yxvm.com/
